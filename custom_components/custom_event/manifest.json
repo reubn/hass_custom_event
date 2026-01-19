@@ -1,9 +1,9 @@
 {
   "domain": "custom_event",
   "name": "Home Assistant service to fire events",
-  "documentation": "https://github.com/andreypolyak/hass_custom_event",
-  "issue_tracker": "https://github.com/andreypolyak/hass_custom_event/issues",
-  "codeowners": ["@andreypolyak"],
+  "documentation": "https://github.com/reubn/hass_custom_event",
+  "issue_tracker": "https://github.com/reubn/hass_custom_event/issues",
+  "codeowners": ["@reubn"],
   "config_flow": false,
   "requirements": [],
   "iot_class": "local_push",

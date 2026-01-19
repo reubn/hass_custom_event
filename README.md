@@ -1,4 +1,4 @@
-# custom_event — Home Assistant service to fire events
+# custom_event — Home Assistant service to fire events - forked from https://github.com/andreypolyak/hass_custom_event
 
 This component creates ```custom_event.fire``` service in Home Assistant which can be used to fire any event. This service may be used when it's not possible to fire event using other built-in ways. Several examples:
 - fire event when button in Lovelace was pressed
@@ -6,7 +6,7 @@ This component creates ```custom_event.fire``` service in Home Assistant which c
 
 ## Installation
 
-1. Add ```https://github.com/andreypolyak/hass_custom_event``` as custom repository in HACS
+1. Add ```https://github.com/reubn/hass_custom_event``` as custom repository in HACS
 2. Install ```custom_event``` custom component in HACS
 3. Add ```custom_event:``` to configuration.yaml file in Home Assistant
 
